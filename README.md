@@ -12,4 +12,11 @@ Taller de aspectos, grupo 6 materia diseño de software
 ![image](https://user-images.githubusercontent.com/91928959/171460608-341f86e3-03e9-4fc7-a1b6-46f9818428bf.png)
 ![image](https://user-images.githubusercontent.com/91928959/171460655-2c8b69b1-fbc5-460c-8193-d49a381551a4.png)
 # Imagenes Enrique Zambrano
+![image](https://user-images.githubusercontent.com/86860458/171512278-05dbf0ee-8322-4ebb-886c-9ec1729f994a.png)
+![image](https://user-images.githubusercontent.com/86860458/171512290-02e875ed-bb95-4099-8125-38ceb64e2a08.png)
+![image](https://user-images.githubusercontent.com/86860458/171512296-1378a920-142a-4776-845a-809748a51958.png)
+![image](https://user-images.githubusercontent.com/86860458/171512307-020f9d73-5614-4e89-bb85-3a58c36dde73.png)
+![image](https://user-images.githubusercontent.com/86860458/171512319-2ce6deff-5598-472d-aef8-1a3f9bf33fea.png)
+![image](https://user-images.githubusercontent.com/86860458/171512329-1bf9a7e1-9a76-4753-bada-15297d4ff060.png)
+![image](https://user-images.githubusercontent.com/86860458/171512343-10b7bbc0-c4a1-4567-86f7-fabd7b3bcb69.png)
 
