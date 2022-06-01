@@ -17,6 +17,14 @@ public aspect Log {
     	writeFile(cadena);
     	
     }
+    pointcut retiro() : call(void Bank.moneyWithdrawal());
+    after() : retiro() {
+    //Aspecto ejemplo: Deben hacer los puntos de cortes (pointcut) para crear un log con los tipos de transacciones realizadas. //
+    	String str = "Retiro realizado - "+ cal.getTime();
+    	System.out.println(str);
+    	writeFile(str);
+    	
+    }
     
     public void writeFile(String linea) {
     	try {
