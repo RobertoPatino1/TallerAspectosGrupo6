@@ -19,4 +19,7 @@ Taller de aspectos, grupo 6 materia diseño de software
 ![image](https://user-images.githubusercontent.com/86860458/171512319-2ce6deff-5598-472d-aef8-1a3f9bf33fea.png)
 ![image](https://user-images.githubusercontent.com/86860458/171512329-1bf9a7e1-9a76-4753-bada-15297d4ff060.png)
 ![image](https://user-images.githubusercontent.com/86860458/171512343-10b7bbc0-c4a1-4567-86f7-fabd7b3bcb69.png)
+#Imagenes Derek Aviles
+![image](https://user-images.githubusercontent.com/67806350/171513852-4bee7036-025a-4c46-b13d-a99d3afed871.png)
+![image](https://user-images.githubusercontent.com/67806350/171515218-6c45008a-6d8a-444a-8d41-45ad6eee6426.png)
 
