@@ -73,7 +73,7 @@ public class Bank {
         String nombre = readConsole("Nombre :");
         int id = Integer.valueOf(readConsole("Id: "));
         double money = Double.valueOf(readConsole("Dinero: "));
-        users.add(new User(users.size(),nombre,id,money));
+        users.add(new User(users.size()+1,nombre,id,money));
     }
 
     public static void moneyMakeTransaction(){
