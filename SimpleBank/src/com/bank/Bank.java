@@ -76,12 +76,12 @@ public class Bank {
         users.add(new User(users.size()+1,nombre,id,money));
     }
 
-    public static void moneyMakeTransaction(){
+    public static void moneyMakeTransaction(){//Pointcut
         int id = Integer.valueOf(readConsole("Key: "));
         double money = Double.valueOf(readConsole("Dinero a depositar: "));
         users.get(id-1).setMoney(users.get(id-1).getMoney() + money);
     }
-    public static void moneyWithdrawal(){
+    public static void moneyWithdrawal(){//Pointcut
         int id = Integer.valueOf(readConsole("Key: "));
         double money = Double.valueOf(readConsole("Dinero a retirar: "));
         users.get(id-1).setMoney(users.get(id-1).getMoney() - money);
