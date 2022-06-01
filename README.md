@@ -11,3 +11,5 @@ Taller de aspectos, grupo 6 materia diseño de software
 # Imagenes Juan Guadalupe
 ![image](https://user-images.githubusercontent.com/91928959/171460608-341f86e3-03e9-4fc7-a1b6-46f9818428bf.png)
 ![image](https://user-images.githubusercontent.com/91928959/171460655-2c8b69b1-fbc5-460c-8193-d49a381551a4.png)
+# Imagenes Enrique Zambrano
+
